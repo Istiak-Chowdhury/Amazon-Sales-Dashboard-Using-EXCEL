@@ -47,14 +47,6 @@ The dashboard uses a structured dataset containing the following columns:
 
 ---
 
-### **How to Use**
-1. Clone or download the repository to your local system.
-2. Open the **Excel file** in Microsoft Excel (version 2016 or later for compatibility).
-3. Interact with the dashboard using slicers to filter data and gain insights.
-4. Use the pre-built charts and graphs for presentations or reports.
-
----
-
 ### **Future Enhancements**
 - Add time-series analysis to forecast future sales trends.
 - Include customer segmentation to analyze buying behavior.

@@ -35,6 +35,7 @@ The dashboard uses a structured dataset containing the following columns:
 - **Microsoft Excel**:
   - Data cleaning and preparation.
   - Pivot Tables and Pivot Charts for data aggregation and visualization.
+- **Power Query**:
     
 ---
 
